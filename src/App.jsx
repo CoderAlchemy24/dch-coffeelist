@@ -29,11 +29,12 @@ function App() {
     <>
       <header className='
       bg-[url("/resources/bg-cafe-sm.jpg")]
+      
       md:bg-[url("/resources/bg-cafe.jpg")]
       lg:bg-[url("/resources/bg-cafe-lg.jpg")] 
       bg-cover bg-center h-96 flex flex-col justify-center items-center text-white'>
       </header>
-      <main className='w-[84%] max-w-6xl mx-auto z-[5] relative -mt-46 mb-48 pb-24 bg-[#111315] rounded-lg p-8 shadow-lg bg-[url("/resources/vector.svg")] bg-no-repeat bg-[length:300px] bg-[position:top_1rem_right_11rem]'>
+      <main className='w-[84%] max-w-6xl mx-auto z-[5] relative -mt-50 mb-48 pb-24 bg-[#111315] rounded-lg p-8 shadow-lg bg-[url("/resources/vector.svg")] bg-no-repeat bg-[length:300px] bg-[position:top_1rem_right_11rem]'>
       
       <h1 className="dm-sans-heading text-[#FFFFFF] text-center pt-12">Our Collection</h1>
       <p className="dm-sans-body text-[#6F757C] text-center px-[22%]">Introducing our Coffee Collection, a selection of unique coffees from different 

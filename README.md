@@ -1,16 +1,61 @@
-# React + Vite
+<!-- Please update value in the {}  -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Coderalchemy | devChallenges</h1>
 
-Currently, two official plugins are available:
+<div align="center">
+   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-coffee-listing" target="_blank">Simple Coffee Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <h3>
+    <a href="https://tourmaline-flan-f02d6b.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CoderAlchemy24/dch-coffeelist.git">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenge/simple-coffee-listing">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-## React Compiler
+<!-- TABLE OF CONTENTS -->
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Overview](#overview)
+- [Built with](#built-with)
+- [Features](#features)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](./screenshot.jpeg)
+
+
+### Built with
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+
+
+## Author
+
+- GitHub [@coderAlchemy24](https://github.com/coderAlchemy24)
